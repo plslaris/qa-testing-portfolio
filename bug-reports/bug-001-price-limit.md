@@ -1,6 +1,7 @@
 Bug report #001 - Price limit validation
 
 Summary
+
 A product category intended to display items priced at €50 or less displays a product priced above the specified limit.
 
 Environment
