@@ -1,0 +1,15 @@
+email_cadastrado = 'teste@email.com'
+senha_cadastrada = '12345678'
+
+email = input('Email: ')
+senha = input('Senha: ')
+if email == '':
+    print('Email não pode estar vazio')
+elif senha == '':
+    print('Senha não pode estar vazia')
+elif '@' not in email:
+    print('Email inválido')
+elif email == email_cadastrado and senha == senha_cadastrada:
+    print('Login aprovado.')
+else:
+    print('Email ou senha incorretos')
