@@ -1,36 +1,31 @@
-Desafio 1 — Validador de Login
+Login validator
+Objective
+Create a simple Python program to simulate login validation.
 
-Objetivo
+Validations Performed
 
-Criar um programa simples em Python para simular a validação de um login.
+The program checks:
+- Wheter the email was provided
+- Wheter the password was provided
+- Wheter the email contains @
+- Wheter the email and password are correct
+- Wheter the provided credentials are incorret
 
-Validações realizadas
-
-O programa verifica:
-
-- Se o email foi preenchido
-- Se a senha foi preenchida
-- Se o email possui `@`
-- Se o email e a senha estão corretos
-- Se as credenciais informadas estão incorretas
-- 
-Conceitos de Python praticados
-
-- Variáveis
-- `input()`
-- `if`, `elif` e `else`
-- Operadores de comparação
-- Operadores lógicos
+Python concepts practiced
+- Variables
+- input()
+- if, elif and else
+- Comparison operators
+- Logical operators
 - Strings
 
-Relação com QA
+QA connection
 
-Este exercício simula validações que podem ser encontradas em uma tela de login.
+This exercise simulates validations that can be found on a login screen.
 
-Alguns cenários que podem ser testados:
-
-- Login com email e senha válidos
-- Email vazio
-- Senha vazia
-- Email em formato inválido
-- Email ou senha incorretos
+Some test scenarios include:
+- Login with valid email password
+- Empty email
+- Empty password
+- Invalid email format
+- Incorret email or password
