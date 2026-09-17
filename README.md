@@ -40,6 +40,7 @@ Currently learning
 - Basic programming
 
 Disclaimer
+
 This repository contains personal QA exercises and independently created documentation.
 
 No confidential information, customer information, credentials, private data, or materials from third party
