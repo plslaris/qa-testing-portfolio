@@ -1,5 +1,7 @@
 Login validator
+
 Objective
+
 Create a simple Python program to simulate login validation.
 
 Validations Performed
