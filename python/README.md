@@ -1,33 +1,15 @@
-Login validator
+Python studies
 
-Objective
+This folder contains my Python studies and practical exercises focused on software testing and QA. 
 
-Create a simple Python program to simulate login validation.
+Purpose
 
-Validations Performed
+The goal of these projects is to develop Python skills that can be applied to software tessting, test data handling, validation, and test automation.
 
-The program checks:
-- Wheter the email was provided
-- Wheter the password was provided
-- Wheter the email contains @
-- Wheter the email and password are correct
-- Wheter the provided credentials are incorret
+Learning approach
 
-Python concepts practiced
-- Variables
-- input()
-- if, elif and else
-- Comparison operators
-- Logical operators
-- Strings
+Theses projects are part of my ongoing Python studies, with a focus on learning by building small practical excercises related to QA.
 
-QA connection
+More projects will be added as I progress in my studies.
 
-This exercise simulates validations that can be found on a login screen.
 
-Some test scenarios include:
-- Login with valid email password
-- Empty email
-- Empty password
-- Invalid email format
-- Incorret email or password
