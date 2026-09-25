@@ -9,10 +9,15 @@ Validations Performed
 The program checks:
 
 -Wheter the email was provided
+
 -Wheter the password was provided
+
 -Wheter the email contains @
+
 -Wheter the email and password are correct
+
 -Wheter the provided credentials are incorret
+
 -Python concepts practiced
 
 Variables
@@ -29,8 +34,12 @@ This exercise simulates validations that can be found on a login screen.
 Some test scenarios include:
 
 -Login with valid email password
+
 -Empty email
+
 -Empty password
+
 -Invalid email format
+
 -Incorret email or password
 
